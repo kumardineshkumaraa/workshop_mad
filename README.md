@@ -1,4 +1,4 @@
-# workshop_mad
+# Workshop_mad
 # Workshop_Mobile-Application
 ## Develop an android application pass the data between the activities using Intent
 ## AIM:
